@@ -1,0 +1,6 @@
+Student Management Module
+
+Student ID: S001
+Student Name: Demo Student
+Course: Computer Science
+Status: Active
