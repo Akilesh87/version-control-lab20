@@ -1,0 +1,5 @@
+Course Management Module
+
+Course Code: CS101
+Course Name: Computer Science Fundamentals
+Credits: 4
